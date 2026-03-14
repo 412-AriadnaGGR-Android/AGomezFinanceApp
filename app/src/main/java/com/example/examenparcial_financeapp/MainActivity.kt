@@ -71,7 +71,7 @@ data class Transaccion(
 // DATOS DE PRUEBA
 
 
-val miUsuario = Usuario(nombre = "Juan", saldo = 1500.00)
+val miUsuario = Usuario(nombre = "Ariadna", saldo = 1500.00)
 
 val misTarjetas = listOf(
     TarjetaResumen("Actividad\nde la Semana", 0.0,   Color(0xFFE0F0E8)),
